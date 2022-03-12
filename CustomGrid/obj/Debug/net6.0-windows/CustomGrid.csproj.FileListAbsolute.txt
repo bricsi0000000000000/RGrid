@@ -24,6 +24,8 @@ D:\programming\c#\customgrid\CustomGrid\CustomGrid\obj\Debug\net6.0-windows\ref\
 D:\programming\c#\customgrid\CustomGrid\CustomGrid\obj\Debug\net6.0-windows\CustomGrid.pdb
 D:\programming\c#\customgrid\CustomGrid\CustomGrid\obj\Debug\net6.0-windows\CustomGrid.genruntimeconfig.cache
 D:\programming\c#\customgrid\CustomGrid\CustomGrid\obj\Debug\net6.0-windows\RGrid.g.cs
-D:\programming\c#\customgrid\CustomGrid\CustomGrid\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
 D:\programming\c#\customgrid\CustomGrid\CustomGrid\obj\Debug\net6.0-windows\RGrid.baml
 D:\programming\c#\customgrid\CustomGrid\CustomGrid\obj\Debug\net6.0-windows\RGridRow.g.cs
+D:\programming\c#\customgrid\CustomGrid\CustomGrid\obj\Debug\net6.0-windows\RGridRow.baml
+D:\programming\c#\customgrid\CustomGrid\CustomGrid\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\programming\c#\customgrid\CustomGrid\CustomGrid\obj\Debug\net6.0-windows\CustomGrid.csproj.AssemblyReference.cache

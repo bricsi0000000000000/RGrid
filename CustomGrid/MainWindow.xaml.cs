@@ -15,7 +15,7 @@ namespace CustomGrid
                 persons.Add(GeneratePerson(i));
             }
 
-            rgrid.Items = persons;
+            rgrid.InitializeItems(persons);
         }
 
         private Person GeneratePerson(int index)

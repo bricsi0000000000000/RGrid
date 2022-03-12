@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a12a8815-1643-481e-97c0-4dc16c0a93a6": {
+      "ProjectGuid": "a12a8815-1643-481e-97c0-4dc16c0a93a6",
+      "DisplayName": "CustomGrid",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
